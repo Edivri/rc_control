@@ -1,6 +1,7 @@
 name: rc_control
 description: Create a custom Control Button with different sections actions and a central button. Perfect for remote controls or directional input.
 version: 0.0.2
+publish_to: none
 
 
 environment:
